@@ -25,7 +25,7 @@
 ## 🌐 Portfolio
 
 Check out my work and live projects at:  
-👉 [**devansh-eight.vercel.app**](https://devansh-eight.vercel.app/)
+👉 [**devansh-eight.vercel.app**](https://devansh-wdn8.vercel.app/)
 
 ---
 
