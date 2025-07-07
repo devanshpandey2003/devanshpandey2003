@@ -1,6 +1,6 @@
 # Hi there, I'm Devansh Pandey! 👋 
 
-## 🚀 About Me
+## 🚀 About Me 
 
 - 🔭 B.Tech Computer Science student at **SGSITS Indore** (2022–2026)
 - 🤖 AI/ML enthusiast with hands-on experience in **LLMs**, **NLP**, **Pose Estimation**, and **Computer Vision**
