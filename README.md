@@ -25,7 +25,7 @@
 ## 🌐 Portfolio
 
 Check out my work and live projects at:  
-👉 [**devansh**](https://devansh-three.vercel.app/)
+👉 [**devansh**](https://devanshpandey.vercel.app/)
 
 ---
 
