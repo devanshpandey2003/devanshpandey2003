@@ -40,8 +40,8 @@ Check out my work and live projects at:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshpandey2003&show_icons=true&theme=tokyonight" alt="Devansh's GitHub stats" />
-  <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=devanshpandey2003&show_icons=true&theme=tokyonight" alt="Devansh's GitHub stats" />
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshpandey2003&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
